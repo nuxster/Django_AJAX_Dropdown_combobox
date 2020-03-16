@@ -1,0 +1,16 @@
+.page{
+    background-color: lightgray;
+}
+
+table td{
+    padding: 25px;
+    border: 1px solid black;
+}
+
+.comboboxes {
+    padding-left: 25px;
+    padding-top: 25px;
+}
+#combobox {
+    padding: 5px;
+}
